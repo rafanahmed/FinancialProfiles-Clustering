@@ -25,7 +25,7 @@ This project applies unsupervised machine learning to cluster public companies b
 
 ## Methods
 
-**Data Source:** Kaggle dataset of public company financial reports (.html tables)
+**Data Source:** Kaggle dataset of public company financial reports (.html tables) https://www.kaggle.com/datasets/drcrabkg/financial-statements-clustering
 **Processing:** Parse, merge, and normalize ratios per company-quarter
 **Models Used:**
 
