@@ -1,7 +1,3 @@
-Here’s the clean, concise, emoji-free version of your **README.md**:
-
----
-
 # CorporateDNA: Clustering Financial Profiles
 
 ### Research Question
@@ -67,4 +63,4 @@ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, plotly, BeautifulSoup
 
 Incorporate sector segmentation, add time-series clustering, and build an interactive Streamlit dashboard for visualization.
 
----
+
